@@ -6,8 +6,8 @@ import string
 import re
 
 # === CONFIGURE YOUR TELEGRAM CREDENTIALS ===
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"
-TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"
+TELEGRAM_BOT_TOKEN = "7647515503:AAGS7t15F-BC-JewX6EcnpuBK2z-YOYGwP8"
+TELEGRAM_CHAT_ID = "6437994839"
 
 # === MAIL.TM TEMP EMAIL SETUP ===
 domain_resp = requests.get("https://api.mail.tm/domains")
